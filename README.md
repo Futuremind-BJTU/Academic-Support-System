@@ -4,7 +4,7 @@
 [![Django](https://img.shields.io/badge/Django-5.2+-green.svg)](https://www.djangoproject.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> An intelligent AI-powered academic support system that transforms learning materials into structured notes, mind maps, and practice questions. The Project is in progress. Feel free to follow [FutureMind@BJTU](https://github.com/Futuremind-BJTU)
+> An intelligent AI-powered academic support system that transforms learning materials into structured notes, mind maps, and practice questions. The Project is in progress. Feel free to follow [FutureMind@BJTU](https://github.com/Futuremind-BJTU).
 
 ## 🌟 Overview
 
